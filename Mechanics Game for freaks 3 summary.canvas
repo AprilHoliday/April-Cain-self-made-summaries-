@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"02a2921dfd946c90","type":"text","text":"==Perfect sins==","x":-41,"y":-12,"width":250,"height":60},
+		{"id":"12c1801e7a6e63b2","type":"text","text":"> [!NOTE]\n> ==Perfect sins== are special grade hardened targets, widely feared by even experienced exorcists. They are thankfully very rare, and manifest in two ways. The first, and more common, is when a sin host is able to partially manifest but suppress their sin for many months or many years, rendering it both barely detectable by CAIN and also preventing it from majorly interfering with their everyday life. Mundane humans may sense that an afflicted host is struggling somehow, physically and spiritually - they may seem 'off' or unwell. The nascent sin swells and festers, growing hardened and calcified, like a scab over a wound. When it eventually breaks through its host's willpower and fully manifests, it is more vicious, more extreme in its appetites, and vastly more powerful.","x":-199,"y":-500,"width":566,"height":360},
+		{"id":"85c75a886216c41e","type":"text","text":"> [!NOTE]\n> The second way a ==Perfect Sin== manifests is when an ==Imago== that used to be an exorcist is allowed to escape and evolve, unlocking its full power.","x":580,"y":-408,"width":380,"height":177},
+		{"id":"cfa288736f1e90ac","type":"text","text":"*Stage 3 worms can be considered the absolute and stopping point of worm development, such state could take months to years to even reach alive, even using multiple hosts in the process.*\n\n*Reached this point, the threat is overly apparent...* ","x":-96,"y":-900,"width":361,"height":240},
+		{"id":"1b37064761a29295","type":"text","text":"*...although, in some cases this development can be accelerated by emotional exposure of the host \"burning\" in fueling the stage 2 worm to the point in a few moments.*\n\n*We have yet to figure out why exactly this occurs, we need more research* ","x":591,"y":-820,"width":358,"height":188},
+		{"id":"425b77ea64ddbf47","type":"text","text":"> [!NOTE]\n> Perfect sins emergences are classified by CAIN as special grade, high priority events (usually named Calamities), and only experienced exorcists are dispatched to deal with them. They only manifest at Category 3+. and can manifest up to ==Category 6==. They are notably more humanlike in aspect and speech than most sins, and capable of utilizing weaponry formed from their bodies, as well as tremendous psychic abilities.","x":1240,"y":-447,"width":514,"height":255},
+		{"id":"318cacd51445930c","type":"text","text":"> [!NOTE]\n> In game terms, perfect sins are intended as a significant challenge for experienced players that have powerful or capable higher category exorcists, and they up the difficulty and attrition of the game significantly. They have the normal types and forms, but are vastly more powerful than regular sins.","x":1322,"y":0,"width":350,"height":285},
+		{"id":"919d3346736f1bed","type":"text","text":"> [!NOTE]\n> Perfect sins abide by the following rules:","x":1325,"y":420,"width":344,"height":106},
+		{"id":"0888bb199f1b4b54","type":"text","text":"> [!NOTE]\n> • Their ==execution talisman== is 12 base. Additionally, it scales twice as fast with CAT and pressure. (Total talisman is 12 + 2xpressure +2xCAT). Therefore a CAT 4 perfect sin, at 0 pressure, will have a talisman of 20.","x":756,"y":365,"width":408,"height":216},
+		{"id":"f144b4973df6b3cd","type":"text","text":"> [!NOTE]\n> • Perfect Sins can be ==category 3+== only, and can be ==category 6.==","x":994,"y":799,"width":340,"height":121},
+		{"id":"7a013ef78c6644f7","type":"text","text":"> [!NOTE]\n> • All ==traces== created by the sin have their execution talisman increased by +2.","x":1497,"y":790,"width":390,"height":130},
+		{"id":"bc67f05b3960f530","type":"text","text":"> [!NOTE]\n> • All perfect sins have a ==stronger severe attack==, and ==improved abilities== noted in their entry on the following pages.","x":1884,"y":444,"width":396,"height":156},
+		{"id":"6d8e9dcc9a99175c","x":2500,"y":492,"width":250,"height":60,"type":"text","text":"Pages in the pdf: 22-23 for base cain sins!"},
+		{"id":"faf30bca9dc25efd","x":1180,"y":1160,"width":403,"height":235,"type":"text","text":"> [!NOTE]\n> • Each Perfect Sin starts with one of the following ==complications== active and activates another for free when it takes a reaction at 50% talisman or lower. These complications don’t count against the maximum and don’t take a reaction to activate. Each has a 6 talisman to clear."},
+		{"id":"dee55cc3bc08ab31","x":540,"y":1194,"width":352,"height":167,"type":"text","text":"> [!NOTE]\n> ==EK ARMOR==\n> \n> -1 slash taken from harm without teamwork or setup."},
+		{"id":"e99bb8e387f4643d","x":800,"y":1560,"width":335,"height":161,"type":"text","text":"> [!NOTE]\n> ==MALICE==\n> \n> First reaction taken a round rolls 3d6 for risk, picking the lowest"},
+		{"id":"e43e0cafd93f4001","x":1232,"y":1560,"width":299,"height":161,"type":"text","text":"> [!NOTE]\n> ==EK STRESS FIELD==\n> \n> Stress dealt cannot be reduced."},
+		{"id":"835a3edd1f487a4b","x":1680,"y":1560,"width":336,"height":159,"type":"text","text":"> [!NOTE]\n> ==MISERY==\n> \n> Exorcists cannot roll more than 3 dice on any action."},
+		{"id":"8132ba13c9b5950c","x":1848,"y":1151,"width":396,"height":253,"type":"text","text":"> [!NOTE]\n> ==ANNIHILATION== \n> \n> Start a 6 talisman. Slash it once after the exorcists act. The sin regains its Severe Attack when the talisman fills to 6 if it was already used. If it wasn’t used, it may immediately use its Severe Attack as a free reaction."}
+	],
+	"edges":[
+		{"id":"e26ac9fc6eadbd36","fromNode":"02a2921dfd946c90","fromSide":"top","toNode":"12c1801e7a6e63b2","toSide":"bottom"},
+		{"id":"70d849123a659b1e","fromNode":"12c1801e7a6e63b2","fromSide":"right","toNode":"85c75a886216c41e","toSide":"left"},
+		{"id":"fe8d0489352931d4","fromNode":"12c1801e7a6e63b2","fromSide":"top","toNode":"cfa288736f1e90ac","toSide":"bottom"},
+		{"id":"11bd70232a120e4a","fromNode":"85c75a886216c41e","fromSide":"top","toNode":"1b37064761a29295","toSide":"bottom"},
+		{"id":"479119c57206fde3","fromNode":"85c75a886216c41e","fromSide":"right","toNode":"425b77ea64ddbf47","toSide":"left"},
+		{"id":"606a2810671222e0","fromNode":"425b77ea64ddbf47","fromSide":"bottom","toNode":"318cacd51445930c","toSide":"top"},
+		{"id":"69eda95d8c15860d","fromNode":"318cacd51445930c","fromSide":"bottom","toNode":"919d3346736f1bed","toSide":"top"},
+		{"id":"894fdcb6476048b3","fromNode":"919d3346736f1bed","fromSide":"left","toNode":"0888bb199f1b4b54","toSide":"right"},
+		{"id":"757ef2dc02892440","fromNode":"919d3346736f1bed","fromSide":"bottom","toNode":"f144b4973df6b3cd","toSide":"top"},
+		{"id":"2414308127ea77eb","fromNode":"919d3346736f1bed","fromSide":"bottom","toNode":"7a013ef78c6644f7","toSide":"top"},
+		{"id":"5980778fb5b12d21","fromNode":"919d3346736f1bed","fromSide":"right","toNode":"bc67f05b3960f530","toSide":"left"},
+		{"id":"2220398aebb08006","fromNode":"bc67f05b3960f530","fromSide":"right","toNode":"6d8e9dcc9a99175c","toSide":"left"},
+		{"id":"77571d4b70cdc78b","fromNode":"919d3346736f1bed","fromSide":"bottom","toNode":"faf30bca9dc25efd","toSide":"top"},
+		{"id":"06cb0e196f2886b7","fromNode":"faf30bca9dc25efd","fromSide":"left","toNode":"dee55cc3bc08ab31","toSide":"right"},
+		{"id":"907f1af9ed4ecdcc","fromNode":"faf30bca9dc25efd","fromSide":"bottom","toNode":"e99bb8e387f4643d","toSide":"top"},
+		{"id":"b28cb67c645f086c","fromNode":"faf30bca9dc25efd","fromSide":"bottom","toNode":"e43e0cafd93f4001","toSide":"top"},
+		{"id":"3df934bc2e88182e","fromNode":"faf30bca9dc25efd","fromSide":"bottom","toNode":"835a3edd1f487a4b","toSide":"top"},
+		{"id":"fef2e349a6d6957b","fromNode":"faf30bca9dc25efd","fromSide":"right","toNode":"8132ba13c9b5950c","toSide":"left"}
+	]
+}
